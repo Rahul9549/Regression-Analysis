@@ -1,4 +1,4 @@
-# LINEAR REGRESSION
+# Linear Regression
 ## Objective: Predictive Modeling for Delivery Time and Salary Hike Forecasting
 ## Overview:
 The datasets are different for Delivery Time and Salary Hike .This project focuses on utilizing data analysis and predictive modeling 
@@ -20,29 +20,24 @@ predicting delivery time based on sorting time and forecasting salary hikes.
  is implemented using Python, with emphasis on model evaluation and selection to ensure its effectiveness.
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
- # LOGISTIC REGRESSION
+ # Logistic Regression
  ## Title: Predictive Modeling for Term Deposit Subscription
- ##Overview:
+ ## Overview:
  This project aims to develop a predictive model using logistic regression to determine whether a client will subscribe to a term deposit
  or not. The output variable, denoted as \( y \), represents whether the client has subscribed to the term deposit, with two possible 
  outcomes: "yes" or "no" (binomial).
 
- ## Objective:
- The objective of this project is to construct a logistic regression model that accurately predicts the likelihood of a client subscribing
- to a term deposit based on relevant features. By analyzing historical data and performing exploratory data analysis (EDA), feature 
- engineering, and model evaluation, the goal is to develop a robust predictive model capable of informing decision-making processes in 
- marketing and client engagement strategies.
-                                            The final outcome of this project is a well-documented logistic regression model capable of 
-predicting the probability of a client subscribing to a term deposit.
+ #### Objective:
+##### The objective of this project is to construct a logistic regression model that accurately predicts the likelihood of a client subscribing to a term deposit based on relevant features. By analyzing historical data and performing exploratory data analysis (EDA), feature engineering, and model evaluation, the goal is to develop a robust predictive model capable of informing decision-making processes in marketing and client engagement strategies. The final outcome of this project is a well-documented logistic regression model capable of predicting the probability of a client subscribing to a term deposit.
 ----------------------------------------------------------------------------------------------------------------------------------------------
-# MULTI-LINEAR REGRESSION
+# Multi-Linear Regression
 ## Title: Profit Prediction Model for Startup Companies
 ## Overview:
 This project aims to develop a multilinear regression model to predict the profit of startup companies using data on research and development
 spend, administration spend, marketing spend, and the state from which data is collected. By preprocessing the data and applying transformation
 techniques to enhance prediction accuracy, the project aims to provide valuable insights for decision-making in startup management.
 
-## Objective:
+#### Objective:
 Construct multilinear regression models to accurately predict the profit of startup companies based on research and development spend, 
 administration spend, marketing spend, and the state.
 
